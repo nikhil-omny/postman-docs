@@ -41,6 +41,8 @@ Postman allows all users to collaborate with their teams through Team Workspaces
     * [Making your team discoverable](#making-your-team-discoverable)
 
     * [Finding teams within your organization](#finding-teams-within-your-organization)
+  
+* [Leaving a team](#leaving-a-team)
 
 * [Usage limits](#usage-limits)
 
@@ -99,6 +101,18 @@ You will see a list of available teams within your org. Select any team, then **
 [![team list](https://assets.postman.com/postman-docs/Screen_Shot_2019-11-11_at_5_13_01_PM.png)](https://assets.postman.com/postman-docs/Screen_Shot_2019-11-11_at_5_13_01_PM.png)
 
 The team administrator will receive a notification that you’ve asked to join the team. Once they approve your request, you will be able to access the team and collaborate on API projects within it.
+
+## Leaving a team
+
+You can leave a Postman team by navigating to your [Postman Dashboard](https://go.postman.co/workspaces), selecting your avatar in the top-right corner, and clicking **Your Team**. Click **Leave Team**.
+
+<img src="https://assets.postman.com/postman-docs/your-team.jpg" alt="Leave team" width="600px"/>
+
+If you are the last member to leave your team, you will have the option to transfer collections to a personal workspace.
+
+<img src="https://assets.postman.com/postman-docs/leave-and-delete-team.jpg" alt="Leave and delete team" width="500px"/>
+
+> If you are invited to a new team and you are the last in your current team, all team data will be transferred to your personal default workspace.
 
 ## Usage limits
 
