@@ -42,9 +42,7 @@ Postman allows all users to collaborate with their teams through Team Workspaces
 
     * [Finding teams within your organization](#finding-teams-within-your-organization)
 
-* [Usage limits for free users](#usage-limit-for-free-users)
-
-    * [Usage limit](#usage-limit)
+* [Usage limits](#usage-limits)
 
     * [How archiving works](#how-archiving-works)
 
@@ -102,7 +100,7 @@ You will see a list of available teams within your org. Select any team, then **
 
 The team administrator will receive a notification that you’ve asked to join the team. Once they approve your request, you will be able to access the team and collaborate on API projects within it.
 
-### Usage limit
+## Usage limits
 
 You can check your usage limits within the Postman app as well as in the web dashboard. Free users can select the drop-down menu to the right of **Upgrade** in the app. Paid users can access the menu by selecting a team name.
 
