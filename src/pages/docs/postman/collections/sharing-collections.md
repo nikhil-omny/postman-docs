@@ -98,7 +98,7 @@ The **Run in Postman** button shares the collection directly from Postman, so th
 
 ## Sharing collections with a link
 
-Select this option to generate a shareable link for others to access your collections. You can manage a complete list of your collection links from your [workspaces dashboard](https://app.getpostman.com/dashboard).
+Select this option to generate a shareable link for others to access your collections. You can manage a complete list of your active collection links from your [Postman profile](https://go.postman.co/me/collections?view=links).
 
 [![share get link](https://assets.postman.com/postman-docs/Collection_sharing_link2.png)](https://assets.postman.com/postman-docs/Collection_sharing_link2.png)
 
