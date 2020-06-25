@@ -42,6 +42,7 @@ Signing up for an account is optional—you can continue to use Postman without 
 * [Security policies and standards](#security-policies-and-standards)
 * [Updating your username](#updating-your-username)
 * [Resetting your password](#resetting-your-password)
+* [Changing your email address](#changing-your-email-address)
 
 ## Signing up for a Postman account
 
@@ -134,7 +135,7 @@ Postman uses several technologies to ensure that your data is safe and secure. F
 
 ## Updating your username
 
-You can update your username at any time by [navigating to your settings](https://go.postman.co/settings/me), editing your username, and clicking **Save Changes**.
+You can update your username at any time by [navigating to your profile settings](https://go.postman.co/settings/me), editing your username, and clicking **Save Changes**.
 
 ## Resetting your password
 
@@ -151,6 +152,10 @@ Enter your account email, check the __I'm not a robot__ box, and click __Submit_
 Postman will send you an email with instructions for recovering access to your account.
 
 > If you still have trouble logging into your Postman account please [contact support](https://support.getpostman.com/).
+
+## Changing your email address
+
+You can change the email address associated with your Postman account by [navigating to your account settings](https://go.postman.co/settings/me/account), editing your email address, and clicking **Save Changes**.
 
 ## Next steps
 
